@@ -1,0 +1,15 @@
+{
+  "name": "serverzone-local_rand_string",
+  "version": "0.1.0",
+  "author": "serverzone",
+  "summary": "Generates consistent strings based on seed and locally stored salt.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/serverzone/serverzone-local_rand_string",
+  "project_page": "https://github.com/serverzone/serverzone-local_rand_string",
+  "issues_url": "https://github.com/serverzone/serverzone-local_rand_string/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
