@@ -17,8 +17,10 @@ Tested only on master-less setups.
 
 ## Usage
 
+```
 $string = local_rand_string('puppet', 64)
 notify { "Generated string is: ${string}": }
+```
 
 ## Reference
 
